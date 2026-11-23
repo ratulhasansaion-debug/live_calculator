@@ -155,4 +155,4 @@ server.port=8081
 
 ## Author
 
-Made by Ratul.
+Made by Rathul.
