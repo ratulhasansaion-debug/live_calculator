@@ -8,7 +8,7 @@ what to eat, how long to sleep, how long to use your phone and how long to study
 
 | Home | Result |
 |---|---|
-| ![Home screen](docs/screenshots/home.png) | ![Advice result](docs/screenshots/result.png) |
+| ![Home screen](home.png) | ![Advice result](result.png) |
 
 ## Features
 
